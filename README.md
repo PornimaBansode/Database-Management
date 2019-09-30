@@ -1,2 +1,2 @@
-# Stock-Trading-Application
-Database management
+# Database management
+Stock Trading Application
